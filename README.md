@@ -14,7 +14,7 @@ body {
 <h1>JOHN QUINLAR C. GREGORIOS</h1>
 <p>This is my favorite video in YouTube.</p>
 
-<iframe width="420" height="315"
+<iframe width="center" height="315"
 src="https://www.youtube.com/embed/PyhmJeij5Kg">
 </iframe>
 
